@@ -10,7 +10,10 @@
 	- [Strings](http://ruby.bastardsbook.com/chapters/strings)
 	- [Variables](http://ruby.bastardsbook.com/chapters/variables)
 	- For each chapter, follow along with all of the code samples *typing them out in your text editor and running the examples in your terminal*
-	  - upload a snippet to slack with the code for each file using the following naming convention: `ruby_numbers_YOUR_INTIALS_HERE`
+	  - upload a snippet to slack with the code for each file using the following naming convention:
+	  	- `ruby_numbers_YOUR_INTIALS_HERE`, 
+	  	- `ruby_strings_YOUR_INTIALS_HERE`, 
+	  	- etc
 	  - Write a one paragraphy summary of your findings for each chapter and submit through slack Direct Message
 
 - - - -
