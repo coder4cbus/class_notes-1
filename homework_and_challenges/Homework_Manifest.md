@@ -2,7 +2,7 @@
 
 ###**Due on 9/21/2016:**
 
-- Complete the [height to centimeters challenge](https://github.com/tts-code-immersion-clt-pt-summer-2016/class_notes/blob/master/homework_and_challenges/height_to_centimeters_challenge.md#challenge---height-to-centimeters) and turn in the finished code
+- Complete the [height to centimeters challenge](https://github.com/tts-fall-2016-code-immersion/class_notes/blob/master/homework_and_challenges/height_to_centimeters_challenge.md) and turn in the finished code on Slack
 - Sign up for the [TTS Slack Channel](http://ttsclt.slack.com)
 - Send me (in slack) your GitHub username
 - Read the following 3 chapters from the [Bastards Book of Ruby](http://ruby.bastardsbook.com/)
