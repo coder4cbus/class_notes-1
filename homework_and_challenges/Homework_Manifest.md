@@ -45,7 +45,7 @@
 -  Complete the [Git It] Challenges(https://github.com/jlord/git-it-electron)
 	- submit a screenshot of all completed tasks on slack
 	
-###**Due 10/3/16	
+###**Due 10/3/16**	
 
 - Read [The Simple Git Guide](http://rogerdudler.github.io/git-guide/)
 - Read the chapter on [methods](http://ruby.bastardsbook.com/chapters/methods/) over at the Bastards Book of Ruby
