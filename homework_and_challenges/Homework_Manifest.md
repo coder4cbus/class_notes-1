@@ -18,7 +18,7 @@
 
 - - - -
 
-## Class 2 -Control Flow and Arrays
+## Class 2 - Control Flow and Arrays
 
 ###**Due on 9/26/2016:**
 
@@ -35,3 +35,18 @@
 	- The instructions can be found [here](https://github.com/tts-fall-2016-code-immersion/class_notes/blob/master/homework_and_challenges/RPS_Instructions.md#rock-paper-scissors-game)
 
 - - - -
+
+## Class 3 - Git, GitHub and Ruby Methods
+
+###**Due 9/28/16**
+
+- Complete the [Tip Calculator Challenge](https://github.com/tts-fall-2016-code-immersion/class_notes/blob/master/homework_and_challenges/tip_calculator._challenge.md)
+	- Submit your answers on GitHub using the naming convention `ruby_tip_calculator_YOUR_TEAM_INITIALS_HERE`
+-  Complete the [Git It] Challenges(https://github.com/jlord/git-it-electron)
+	- submit a screenshot of all completed tasks on slack
+	
+###**Due 10/3/16	
+
+- Read [The Simple Git Guide](http://rogerdudler.github.io/git-guide/)
+- Read the chapter on [methods](http://ruby.bastardsbook.com/chapters/methods/) over at the Bastards Book of Ruby
+	- Submit a paragraph on your findings of each reading on slack
