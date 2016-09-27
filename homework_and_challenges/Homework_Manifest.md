@@ -49,4 +49,4 @@
 
 - Read [The Simple Git Guide](http://rogerdudler.github.io/git-guide/)
 - Read the chapter on [methods](http://ruby.bastardsbook.com/chapters/methods/) over at the Bastards Book of Ruby
-	- Submit a paragraph on your findings of each reading on slack
+	- Submit a paragraph on your findings of each reading assignment on slack
