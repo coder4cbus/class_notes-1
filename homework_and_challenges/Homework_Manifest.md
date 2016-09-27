@@ -42,7 +42,7 @@
 
 - Complete the [Tip Calculator Challenge](https://github.com/tts-fall-2016-code-immersion/class_notes/blob/master/homework_and_challenges/tip_calculator._challenge.md)
 	- Submit your answers on GitHub using the naming convention `ruby_tip_calculator_YOUR_TEAM_INITIALS_HERE`
--  Complete the [Git It] Challenges(https://github.com/jlord/git-it-electron)
+-  Complete the [Git It](https://github.com/jlord/git-it-electron) Challenges
 	- submit a screenshot of all completed tasks on slack
 	
 ###**Due 10/3/16**	
