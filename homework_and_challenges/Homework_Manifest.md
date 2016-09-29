@@ -50,3 +50,24 @@
 - Read [The Simple Git Guide](http://rogerdudler.github.io/git-guide/)
 - Read the chapter on [methods](http://ruby.bastardsbook.com/chapters/methods/) over at the Bastards Book of Ruby
 	- Submit a paragraph on your findings of each reading assignment on slack
+
+- - - - 
+
+## Class 4 - Hashes, Classes and Object Orientation
+
+###**Due on 10/3/16**
+
+- Read the following Articles: 
+	- [Writing Ruby Classes](http://culttt.com/2015/05/27/writing-ruby-classes/)
+	- [Understanding Class Methods vs Instance Methods](http://culttt.com/2015/06/10/understanding-class-methods-verses-instance-methods-in-ruby/)
+	- [Understanding Inheritance](http://culttt.com/2015/06/24/understanding-inheritance-in-ruby/)
+	- [What are symbols in Ruby](http://culttt.com/2015/04/22/what-are-symbols-in-ruby/)
+		- Follow along with the code examples in your text-editor or irb
+		- Upload completed code to slack
+		- Write a couple of sentences on your biggest take-away from each chapter
+
+- Work with your partner(s) to create an Inventory Program
+	- Instructions can be found [here](https://github.com/tts-fall-2016-code-immersion/class_notes/blob/master/homework_and_challenges/inventory_assignment.md)
+	- *note: follow the same naming convetions used for Rock, Paper, Scissors.*
+		- *Append all teammates initials to the repo name*
+		- *ie: `inventory_application_YOUR_TEAM_INITIALS_HERE*
