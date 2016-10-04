@@ -80,6 +80,7 @@
 
 - Complete the 02_calculator challenge in the [Learn Ruby Test Suite](https://github.com/tts-fall-2016-code-immersion/learn_ruby)
 - Read this article on [Ruby Blocks](http://mixandgo.com/blog/mastering-ruby-blocks-in-less-than-5-minutes) article
+- Read this article on [Modules](http://culttt.com/2015/07/01/creating-and-using-modules-in-ruby/)
 - Read this chapter on [Enumerables](http://ruby.bastardsbook.com/chapters/enumerables)
 - Read this chapter on [I/O](http://ruby.bastardsbook.com/chapters/io)
   	- Follow along with the code examples in your text-editor or irb
