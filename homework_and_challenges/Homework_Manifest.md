@@ -20,7 +20,7 @@
 
 ## Class 2 - Control Flow and Arrays
 
-###**Due on 9/26/2016:**
+###**Due on 9/26/2016**
 
 - Read the following 3 chapters from the [Bastards Book of Ruby](http://ruby.bastardsbook.com/)
 	- [If and Else](http://ruby.bastardsbook.com/chapters/ifelse)
@@ -71,3 +71,19 @@
 	- *note: follow the same naming convetions used for Rock, Paper, Scissors.*
 		- *Append all teammates initials to the repo name*
 		- *ie: `inventory_application_YOUR_TEAM_INITIALS_HERE*
+
+- - - -
+
+## Class 5 - TDD, Blocks and Procs
+
+###**Due 10/10/16**
+
+- Complete the 02_calculator challenge in the [Learn Ruby Test Suite](https://github.com/tts-fall-2016-code-immersion/learn_ruby)
+- Read this article on [Ruby Blocks](http://mixandgo.com/blog/mastering-ruby-blocks-in-less-than-5-minutes) article
+- Read this chapter on [Enumerables](http://ruby.bastardsbook.com/chapters/enumerables)
+- Read this chapter on [I/O](http://ruby.bastardsbook.com/chapters/io)
+  	- Follow along with the code examples in your text-editor or irb
+	- Upload completed code to slack
+	- Write a couple of sentences on your biggest take-away
+	
+- - - -
