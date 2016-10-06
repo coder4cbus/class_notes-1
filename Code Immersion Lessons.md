@@ -14,3 +14,9 @@
 [Ruby Classes and OOP](https://github.com/tts-fall-2016-code-immersion/class_notes/blob/master/ruby/classes.md)
 
 [Blocks and Procs](https://github.com/tts-fall-2016-code-immersion/class_notes/blob/master/ruby/blocks%20%26%20procs.md)
+
+- - - - 
+
+## HTML 
+
+[Intro to HTML](http://techtalentsouth.slides.com/techtalentsouth/deck?token=uXxLjxrT)
