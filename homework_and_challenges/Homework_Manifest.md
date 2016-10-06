@@ -88,3 +88,16 @@
 	- Write a couple of sentences on your biggest take-away
 	
 - - - -
+
+## Class 6 - Intro to HTML
+
+###**Due 10/10/16**
+
+- Complete the fist 4 challenges of the [html/css signup form challenge](https://github.com/tts-fall-2016-code-immersion/class_notes/blob/master/front-end/build_a_form_with_html_%26_css_challenges.md)
+  	- push the completed code to our class GitHub org using the naming convention 'signup_form_YOUR_TEAM_INTIALS_HERE`
+
+- Complete the first module of [Front End Foundations](https://www.codeschool.com/courses/front-end-foundations) at CodeSchool
+- Work up to challenge 38 (Give a Background Color to a Div Element) of the [Intro to HTML/CSS challenges](https://www.freecodecamp.com/challenges/say-hello-to-html-elements) at Free Code Camp
+	- Upload screenshots of your work on Slack.
+
+- - - - 
