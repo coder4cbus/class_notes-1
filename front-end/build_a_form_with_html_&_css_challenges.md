@@ -91,7 +91,7 @@ Which should produce something like this:
 Now all that's left is to add some style...
 - - - - 
 
-<!--# On to Style...
+# On to Style...
 - - - - 
 
 **Challenge 5** - Link to your stylesheet
@@ -453,4 +453,3 @@ Okay, not exactly what we're looking for. Now try this:
 Refresh and enjoy the fruits of your labor... Which should look something like this:
 
 ![finished product](../images/finished_form.png)
--->
