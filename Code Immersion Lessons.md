@@ -17,6 +17,8 @@
 
 - - - - 
 
-## HTML 
+## Front-End
 
 [Intro to HTML](http://techtalentsouth.slides.com/techtalentsouth/deck?token=uXxLjxrT)
+
+[Intro to CSS](http://techtalentsouth.slides.com/techtalentsouth/clt-ft-intro-to-css-280?token=SYOsgJPr)
