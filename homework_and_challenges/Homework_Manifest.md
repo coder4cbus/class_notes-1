@@ -101,3 +101,22 @@
 	- Upload screenshots of your work on Slack.
 
 - - - - 
+
+
+## Class 7 - Intro to CSS
+
+###**Due 10/12/16**
+
+- Complete the [Google HomePage Challenge]https://github.com/tts-fall-2016-code-immersion/class_notes/blob/master/homework_and_challenges/google_clone_challenge.md) 
+	- Push the code to GitHub using the name `google_challenge_YOUR_INITIALS_HERE` or `google_challenge_YOUR_TEAM_INITIALS_HERE`
+	- Upload a link to the repo and a screenshot of your work to slack
+
+###**Due 10/17/16**
+
+- Complete the [Build a Form with CSS Challenge](https://github.com/tts-fall-2016-code-immersion/class_notes/blob/master/front-end/build_a_form_with_html_%26_css_challenges.md#htmlcss-challenge---create-a-signup-form)
+	- Drivers: upload the challenge to GitHub with the naming convention `form_challenge_YOUR_TEAMS_INTIALS_HERE`
+	- Navigators: *clone* the project and *create* a new branch using the naming convention: `YOUR_NAME_branch`
+	- Both teammates will need to complete the project (individually) and push to your branch on GitHub 
+- Complete the [CSS Diner](https://flukeout.github.io/) Challenge
+	- Upload a screenshot of the completed work to slack
+
