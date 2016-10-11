@@ -107,7 +107,7 @@
 
 ###**Due 10/12/16**
 
-- Complete the [Google HomePage Challenge]https://github.com/tts-fall-2016-code-immersion/class_notes/blob/master/homework_and_challenges/google_clone_challenge.md) 
+- Complete the [Google HomePage Challenge](https://github.com/tts-fall-2016-code-immersion/class_notes/blob/master/homework_and_challenges/google_clone_challenge.md) 
 	- Push the code to GitHub using the name `google_challenge_YOUR_INITIALS_HERE` or `google_challenge_YOUR_TEAM_INITIALS_HERE`
 	- Upload a link to the repo and a screenshot of your work to slack
 
