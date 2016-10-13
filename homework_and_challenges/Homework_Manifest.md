@@ -120,3 +120,27 @@
 - Complete the [CSS Diner](https://flukeout.github.io/) Challenge
 	- Upload a screenshot of the completed work to slack
 
+- - - - 
+
+## Class 8 - Bootstrap
+
+###**Due 10/17/16**
+
+- Finish the [Good Coffee Challenge](https://github.com/tts-fall-2016-code-immersion/class_notes/blob/master/front-end/bootstrap_good_coffee_challenge_with_answers.md)
+	- Push to GitHub
+	- Use the naming convention: `good_coffee_YOUR_INITIALS_HERE`
+- Create a Portfolio Site using [Bootstrap](http://getbootstrap.com/) or [Zurb Foundation](http://foundation.zurb.com/)
+	- Don't worry about content (use *lorem ipsum* for right now)
+	- Your portfolio site should consist of at least:
+		- A Hero Image or Hero Section
+		- A section about you
+		- A section for your work
+	- Use the web to find 2 or 3 designs that you like and use them as inspiration in your project<br>
+		Some resources:
+		- [Awwwards](http://www.awwwards.com/)
+		- [Crafted By Love](http://www.craftedbylove.com/#/)
+		- [Flat Color Picker](http://www.flatuicolorpicker.com/)
+		- [Color Pallete Helper](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
+	- Push the code to *your personal* GitHub Account
+	- Send a direct message (in slack) with a link to your repo
+	
