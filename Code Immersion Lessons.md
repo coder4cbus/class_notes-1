@@ -22,3 +22,5 @@
 [Intro to HTML](http://techtalentsouth.slides.com/techtalentsouth/deck?token=uXxLjxrT)
 
 [Intro to CSS](http://techtalentsouth.slides.com/techtalentsouth/clt-ft-intro-to-css-280?token=SYOsgJPr)
+
+[Intro to Bootstrap](https://github.com/tts-fall-2016-code-immersion/class_notes/blob/master/front-end/bootstrap_good_coffee_challenge_with_answers.md)
