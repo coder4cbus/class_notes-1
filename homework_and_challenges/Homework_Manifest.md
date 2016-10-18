@@ -143,4 +143,18 @@
 		- [Color Pallete Helper](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
 	- Push the code to *your personal* GitHub Account
 	- Send a direct message (in slack) with a link to your repo
+
+- - - - 
+
+## Class 9 - Intro to JavaScript
+
+###**Due 10/19/16**
+
+- Complete the [JS Tip Calculator Challenge](https://github.com/tts-fall-2016-code-immersion/class_notes/blob/master/front-end/introToJavascript.md#challenge-3-tip-calculator)
+	- push to our class GitHub org with the naming convention: `js_tip_calculator_YOUR_INITIALS_HERE`
 	
+###**Due 10/24/16**
+
+- Read [JavaScript for Cats](http://jsforcats.com/) in full and follow along with the exercises
+	- Write a 1 sentence summary of each section and submit to slack 
+
