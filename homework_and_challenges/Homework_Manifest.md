@@ -164,6 +164,10 @@
 
 ###**Due 10/124/16**
 
+- Finish building the [Pizza Shop](https://github.com/tts-fall-2016-code-immersion/class_notes/blob/master/rails/intro_to_rails.md) App
+	- Push to github
+	- send in link to repo on slack
+
 - Study your part of the Model View Controller Architecture
 	- Be ready to present with your team at the beginning of next class
 	- Team 1 - Describe what happens when a Tweet is posted
