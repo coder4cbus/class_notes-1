@@ -158,3 +158,29 @@
 - Read [JavaScript for Cats](http://jsforcats.com/) in full and follow along with the exercises
 	- Write a 1 sentence summary of each section and submit to slack 
 
+- - - - 
+
+## Class 10 - Intro to Rails
+
+###**Due 10/124/16**
+
+- Study your part of the Model View Controller Architecture
+	- Be ready to present with your team at the beginning of next class
+	- Team 1 - Describe what happens when a Tweet is posted
+	- Team 1 consists of: 
+		- Ann - model 
+		- Jessica - view 
+		- Shawn - database
+		- Chris - controller
+	- Team 2 - Describe what happens when signing up for an account with Facebook
+	- Team 2 consists of: 
+		- Garret - model
+		- Shaun - view
+		- Katie - controller
+		- Maggie - database
+	- Team 3 - Describe what happens when you like a post on Facebook
+	- Team 3 consists of: 
+		- Erin - model
+		- Rich - view
+		- Brian - controller
+		- Anesha - database 
