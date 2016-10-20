@@ -26,3 +26,11 @@
 [Intro to Bootstrap](https://github.com/tts-fall-2016-code-immersion/class_notes/blob/master/front-end/bootstrap_good_coffee_challenge_with_answers.md)
 
 [Intro to JavaScript](https://github.com/tts-fall-2016-code-immersion/class_notes/blob/master/front-end/introToJavascript.md#intro-to-javascript)
+
+- - - -
+
+## Rails
+
+[MVC Architecture](https://github.com/tts-fall-2016-code-immersion/class_notes/blob/master/rails/mvc_architecture.md)
+
+[Intro to Rails](https://github.com/tts-fall-2016-code-immersion/class_notes/blob/master/rails/intro_to_rails.md)
