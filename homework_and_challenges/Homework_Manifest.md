@@ -162,7 +162,7 @@
 
 ## Class 10 - Intro to Rails
 
-###**Due 10/124/16**
+###**Due 10/24/16**
 
 - Finish building the [Pizza Shop](https://github.com/tts-fall-2016-code-immersion/class_notes/blob/master/rails/intro_to_rails.md) App
 	- Push to github
