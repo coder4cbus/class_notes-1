@@ -188,3 +188,12 @@
 		- Rich - view
 		- Brian - controller
 		- Anesha - database 
+
+- - - - 
+
+## Class 11 - SQL & ActiveRecord
+
+###**Due 10/31/16**
+
+- Complete the CodeSchool [TrySQL Course](https://www.codeschool.com/courses/try-sql)
+	- Upload completed screenshot to slack 
