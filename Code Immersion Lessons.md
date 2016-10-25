@@ -34,3 +34,5 @@
 [MVC Architecture](https://github.com/tts-fall-2016-code-immersion/class_notes/blob/master/rails/mvc_architecture.md)
 
 [Intro to Rails](https://github.com/tts-fall-2016-code-immersion/class_notes/blob/master/rails/intro_to_rails.md)
+
+[SQL and ActiveRecord](https://github.com/tts-fall-2016-code-immersion/class_notes/blob/master/rails/sql_and_active_record.md)
