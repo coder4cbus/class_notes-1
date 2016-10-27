@@ -36,3 +36,7 @@
 [Intro to Rails](https://github.com/tts-fall-2016-code-immersion/class_notes/blob/master/rails/intro_to_rails.md)
 
 [SQL and ActiveRecord](https://github.com/tts-fall-2016-code-immersion/class_notes/blob/master/rails/sql_and_active_record.md)
+
+[Associations in Rails](http://techtalentsouth.slides.com/techtalentsouth/atl-rails-associations-326?token=ag1SK_vt#/)
+
+[Twitter Part 1](http://techtalentsouth.slides.com/techtalentsouth/clt-ft-fall-2015-twitter-part-1-431-509#/)
