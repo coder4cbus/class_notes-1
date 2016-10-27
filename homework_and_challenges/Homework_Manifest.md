@@ -197,3 +197,20 @@
 
 - Complete the CodeSchool [TrySQL Course](https://www.codeschool.com/courses/try-sql)
 	- Upload completed screenshot to slack 
+	
+- - - - 
+
+## Class 12 - Twitter Part 1 - App Setup, Devise install, User Model Config and Associations
+
+###**Due 11/1/16**
+
+- Ensure that you are caught up with the current state of the Bark application
+	- Compare agains the [Master Repo](https://github.com/tts-fall-2016-code-immersion/bark)
+	- Clone the app and make sure you and your partner ready for Wednesday night's class
+
+###**Due 11/7/16** 
+
+- Complete the [Active Record Basics Course](https://teamtreehouse.com/library/activerecord-basics) at Team Treehouse 
+	- You'll need to sign up for a team treehouse account (make sure to cancel it within 7 days) 
+	- Upload a completed screenshot to Slack
+	
