@@ -44,3 +44,7 @@
 [Twitter Part 2](http://techtalentsouth.slides.com/techtalentsouth/clt-ft-fall-2015-twitter-part-2-434-510-847?token=hz0mbFKY)
 
 [Twitter Part 3](http://techtalentsouth.slides.com/techtalentsouth/clt-ft-fall-2015-twitter-part-2-434-510-857?token=9nvT9WuL)
+
+[Deployment to Heroku](http://techtalentsouth.slides.com/techtalentsouth/charlotte-heroku-deployment?token=xFl8nmM2)
+
+[Next Steps](https://github.com/tts-fall-2016-code-immersion/next_steps)
